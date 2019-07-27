@@ -10,7 +10,7 @@ public class APIController {
 @RequestMapping(value = "api/hello", method = RequestMethod.GET)
 public String printMessage () {
 	
-	return "Hello World...................";
+	return "Hello World..............";
 }
 	
 }
